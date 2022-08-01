@@ -1,0 +1,446 @@
+@media (max-width: 575.98px) { 
+
+
+    .navbar-light .navbar-toggler {
+        border-color: #f3818100;
+    }
+
+    button:focus {
+        outline: 0px dotted;
+        outline: 0px auto-webkit-focus-ring-color;
+    }
+
+    .section {
+        padding-top: 120px;
+        padding-bottom: 85px;
+    }
+
+    .ab-section {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .header-item h4 {
+
+        font-size: 35px;
+    }
+
+    .header-item h2 {
+
+        font-size: 50px;
+
+    }
+
+    .ab-heading h4 {
+        padding-top: 0px;
+
+    }
+
+    .ab-heading h2 {
+        font-size: 25px;
+        padding-bottom: 23px;
+
+    }
+
+    .countdown {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .ab-heading p {
+        font-family: 'Roboto';
+        font-size: 15px;
+        font-weight: 400;
+        color: #999999;
+        margin-top: 20px;
+        padding: 0px 14px;
+        margin-bottom: 35px;
+    }
+
+    img {
+
+        padding-bottom: 10px;
+    }
+
+    .service-item h4 {
+
+        padding-top: 30px;
+    }
+
+    .service-item h2 {
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+
+    .service_item_disc h4 {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .service_section {
+        margin-bottom: 40px;
+    }
+
+    .service_item_disc p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+
+    .demo {
+        background-color: #f8f8f8;
+        padding: 40px 0;
+        text-align: center;
+    }
+    .massage_icon img {
+        display: inline-block;
+    }
+
+    .massage_item p {
+        font-family: 'Roboto';
+        font-weight: 300;
+        font-size: 18px;
+        font-style: italic;
+        color: #999999;
+    }
+
+    .massage_item h4 {
+        font-size: 16px;
+        color: #333333;
+        left: 480px;
+    }
+
+    .massage_item h4:before {
+        left: 340px;
+    }
+
+    .team {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .team_text h2 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+
+    .team_text p {
+        padding: 0px 12px;
+    }
+
+    .team_heading {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    .work_heading h2 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .work_heading p {
+        padding: 0px 13px;
+        margin-bottom: 40px;
+    }
+    .Gellary-items h4 {
+        font-size: 11px;
+    }
+    .Gellary-items p {
+        font-size: 14px;
+    }
+    .Gellary {
+        margin-bottom: 40px;
+    }
+    .footer {
+        padding-top: 40px;
+    }
+    .left-footer p {
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .midle-footer h4 {
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+    .footer-gallary h4 {
+        margin-bottom: 10px;
+    }
+
+
+
+
+
+
+
+
+ }
+
+
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .navbar-light .navbar-toggler {
+        border-color: #f3818100;
+    }
+
+    button:focus {
+        outline: 0px dotted;
+        outline: 0px auto-webkit-focus-ring-color;
+    }
+
+    .section {
+     
+        padding-top: 115px;
+        padding-bottom: 115px;
+        
+    }
+    
+    .header-item h4 {
+       
+        font-size: 50px;
+       
+    }
+
+
+    .header-item h2 {
+      
+        font-size: 80px;
+       
+    }
+    .ab-section {
+        padding-top: 60px;
+        padding-bottom: 55px;
+    }
+
+    .ab-heading h4 {
+        padding-top: 0px;
+      
+    }
+    .ab-heading p {
+       
+        padding: 0;
+        margin-bottom: 50px;
+    }
+    img.img-fluid.w-100 {
+        margin-bottom: 10px;
+    }
+    .countdown {
+        padding-top: 55px;
+        padding-bottom: 50px;
+    }
+    .service_section {
+        margin-bottom: 40px;
+    }
+    .service_info_item {
+        text-align: center;
+    }
+    .service-item h2 {
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+
+    .service_item_disc h4 {
+        
+        margin-top: 10px;
+    }
+    .service-item h4 {
+        
+        padding-top: 45px;
+    }
+    .demo {
+        padding: 30px;
+        text-align: center;
+    }
+    .massage_item p {
+    font-size: 16px;
+    margin-top: 10px;
+}
+.massage_icon img {
+    display: inline-block;
+}
+
+    .massage_item h4 {
+      
+        padding-left: 270px;
+        
+    }
+    .massage_item h4:before {
+       
+        left: 255px;
+        
+    }
+    .Gellary {
+        margin-bottom: 50px;
+    }
+    .team {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    .team_heading {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    .team_text h2 {
+       
+        padding-bottom: 20px;
+        margin-bottom: 40px;
+       
+    }
+    .team_text p {
+        padding: 0px 15px;
+        font-size: 14px;
+    }
+    .work_heading h2 {
+        
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+        
+    }
+    .work_heading p {
+        font-size: 14px;
+        padding: 0px 15px;
+        margin-bottom: 40px;
+    }
+    .text-center {
+        
+        margin-bottom: 25px;
+    }
+    .footer {
+        background-color: #f8f8f8;
+        padding-top: 50px;
+    }
+    .left-footer p {
+        padding-bottom: 20px;
+        padding-top: 33px;
+    }
+    .footer-midle-text h5 {
+        font-size: 13px;
+        text-align: center;
+    }
+    .footer-midle-text p {
+        text-align: center;
+    }
+    .footer-gallary h4 {
+        font-size: 20px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+  /* medium device */
+  @media (min-width: 768px) and (max-width: 991.98px) { 
+
+    .navbar-light .navbar-toggler {
+        border-color: #d9d9d900;
+    }
+    button:focus {
+        outline: 0px dotted;
+        outline: 0px;
+    }
+    .section {
+        padding-top: 125px;
+        padding-bottom: 125px;
+    }
+    .header-item h2 {
+         font-size: 85px;
+        
+    }
+    .header-item h4 {
+        font-size: 45px;
+    }
+    .ab-section {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .ab-heading h4 {
+        padding-top: 10px;
+    }
+    .ab-heading p {
+        font-size: 15px;
+        padding: 0 40px;
+        margin-bottom: 60px;
+    }
+    .service_section {
+        margin-bottom: 50px;
+    }
+    .service-item h4 {
+        padding-top: 65px;
+    }
+    .service_info_item img {
+        margin-top: -35px;
+    }
+    .row.service {
+        margin-top: 50px;
+    }
+    .demo {
+        padding-left: 70px;
+    }
+    .demo {
+        padding: 40px;
+       
+    }
+    .massage_item p {
+        font-size: 15px;
+        padding-left: 50px;
+    }
+    .massage_icon img {
+        padding: 25px 30px;
+    }
+    .massage_item h4 {
+        padding-left: 380px;
+    }
+    .massage_item h4:before {
+        left: 320px;
+        
+    }
+    .team_text h2 {
+        margin-bottom: 35px;
+    }
+    .team_text p {
+        padding: 15px 30px;
+    }
+    .team {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .work_heading p {
+        padding: 0px 60px;
+        margin-bottom: 50px;
+    }
+    .work_heading h2 {
+        margin-bottom: 40px;
+    }
+    .Gellary {
+        margin-bottom: 50px;
+    }
+    .left-footer p {
+        padding-bottom: 30px;
+        padding-top: 33px;
+    }
+    .footer-midle-text h5 {
+        font-size: 16px;
+    }
+    .footer-midle-text p {
+        font-size: 16px;
+    }
+    .footer-gallary h4 {
+        font-size: 25px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .footer-demo {
+        margin-right: -10px;
+        margin-bottom: 15px;
+    }
+
+
+
+  }
